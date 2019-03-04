@@ -36,8 +36,9 @@ in the API directory, change the base URL to http://localhost:3001/
 ```
 
 Change Yelp API
-```
+
 Get a Yelp API key from [here](https://www.yelp.com/developers)
+```
 Replace process.env.REACT_APP_YELP_API_KEY with the API Key
 ```
 
