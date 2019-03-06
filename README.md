@@ -1,4 +1,4 @@
-cd ..<img src="src/crawlr.png" width="200" height="150" title="Crawlr Logo">
+<img src="src/crawlr.png" width="200" height="150" title="Crawlr Logo">
 
 ---
 
