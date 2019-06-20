@@ -6,7 +6,7 @@
 
 Crawlr is a Social Gathering Platform that allows users to create and join pub crawls in the area. This application uses the Yelp API to locate bars in the New York City area, with roll-outs to other geographical locations in the future. This project uses React on the frontend and Rails API and Postres on the backend. Designs are done with Semantic UI and custom CSS. The purpose of this application was to gain familiarity with React and Redux and connecting it with a Rails backend server. Authentication is done with Google OAuth. 
 
-View the live site [here](https://dave-lin-crawlr.herokuapp.com/)
+View the live site [here](https://pub-crawl-app.herokuapp.com/)
 
 View the github for the frontend [here](https://github.com/dvdlin214/pub_crawl_frontend)
 
